@@ -1,4 +1,4 @@
-## Life as a High Schooler
+## **Life as a High Schooler**
 
 ### You wake up, you realize you forgot to do your homework from the other day. What do you do?  
 
