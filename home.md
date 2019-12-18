@@ -1,6 +1,6 @@
 ## Life as a High Schooler
 
-##### You wake up, you realize you forgot to do your homework from the other day. What do you do?  
+### You wake up, you realize you forgot to do your homework from the other day. What do you do?  
 
 [Rush your Homework, you don't care if you get some questions wrong, afterwards, rush to school](option1_path) .   
     
