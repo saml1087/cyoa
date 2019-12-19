@@ -4,5 +4,5 @@
 
 [Rush your Homework, you don't care if you get some questions wrong, afterwards, rush to school](option1_path/question-1-options/first-question.md) .   
     
-[Don't do it, take the time to relax by watching YouTube](option2_path/) . 
+[Don't do it, take the time to relax by watching YouTube](option2_path/question-1-option-1.md) . 
 
