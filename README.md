@@ -1,7 +1,7 @@
 # Choose Your Own Adventure
 
 ## Demo
-The purpose of creating this repository was to...  
+The purpose of creating this repository was to create an adventure where the user is able to alter their ending experience.  
   
 [Click here](home.md) to begin!  
   
